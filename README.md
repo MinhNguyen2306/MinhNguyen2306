@@ -1,1 +1,1 @@
-![](https://komarev.com/ghpvc/?username=Minhnguyen)
+![brightgreen](https://komarev.com/ghpvc/?username=Minhnguyen)
