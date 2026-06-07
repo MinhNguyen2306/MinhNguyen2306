@@ -1,4 +1,4 @@
-#ABOUT ME <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4debbcde-eb70-407f-b6e0-aee6468a7089" />
+#ABOUT ME <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/4debbcde-eb70-407f-b6e0-aee6468a7089" />
 
 
 ![](https://komarev.com/ghpvc/?username=Minhnguyen&color=brightgreen)
