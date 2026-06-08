@@ -1,4 +1,4 @@
-# ABOUT ME <img width="30" height="20" alt="image" src="https://github.com/user-attachments/assets/4debbcde-eb70-407f-b6e0-aee6468a7089" />
+# ABOUT ME <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/4debbcde-eb70-407f-b6e0-aee6468a7089" />
 🚀 Data Engineer & Business Intelligence Enthusiast
 
 Passionate about building scalable data pipelines, transforming raw data into reliable datasets, and delivering actionable business insights. Experienced with SQL, Python, ETL processes, data warehousing, and business intelligence solutions.
